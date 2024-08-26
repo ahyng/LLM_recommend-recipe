@@ -14,7 +14,7 @@ LLM을 이용하여 사용자의 요구사항을 반영한 요리와 레시피�
 
 - streamlit 
 - sqlite
-- openAI
+- GPT-4o
 
 ## 주요 기능
 
